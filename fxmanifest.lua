@@ -12,6 +12,6 @@ dependencies {
   'baseevents'
 }
 
-resource_type 'gametype' { name = 'Freemode' }
+resource_type 'gametype' { name = 'Freeroam' }
 
 client_script 'dist/client.js'
