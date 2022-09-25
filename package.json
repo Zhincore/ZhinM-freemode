@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Zhincore",
-  "license": "GPLv3-or-later",
+  "license": "GPL-3.0-or-later",
   "scripts": {
     "build": "node build.js --mode=production",
     "watch": "node build.js"

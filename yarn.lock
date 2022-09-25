@@ -7,16 +7,6 @@
   resolved "https://registry.yarnpkg.com/@citizenfx/client/-/client-2.0.5667-1.tgz#2087b125b612d54ba4834d29214443336b35437c"
   integrity sha512-AAi4bu2rnT5wd9pWqKitmUSiXLOMW8jy/k1g1b67DdyUVmQPguMmlQNosw2fjmwEUHlZckyqZXAD5jRT72VIIg==
 
-"@citizenfx/server@latest":
-  version "2.0.5667-1"
-  resolved "https://registry.yarnpkg.com/@citizenfx/server/-/server-2.0.5667-1.tgz#b6831fa7eceae81f84bc5894c00fc601ff3757b2"
-  integrity sha512-HLmpWeUjKXSazZW3dXZUfgGTPkbg8+kme3kNDLE0Bf7w/hLSaHckFI3Bh7xgFT62JWy5ITEHefnxen2FRE66MQ==
-
-"@types/node@^16.3.1":
-  version "16.11.41"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.41.tgz#88eb485b1bfdb4c224d878b7832239536aa2f813"
-  integrity sha512-mqoYK2TnVjdkGk8qXAVGc/x9nSaTpSrFaGFm43BUH3IdoBV0nta6hYaGmdOvIMlbHJbUEVen3gvwpwovAZKNdQ==
-
 esbuild-android-64@0.14.47:
   version "0.14.47"
   resolved "https://registry.yarnpkg.com/esbuild-android-64/-/esbuild-android-64-0.14.47.tgz#ef95b42c67bcf4268c869153fa3ad1466c4cea6b"

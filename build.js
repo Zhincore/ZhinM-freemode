@@ -28,9 +28,9 @@ for (const context of [client]) {
       watch: production
         ? false
         : {
-            onRebuild: onRebuild(context),
+            onRebuild: onRebuild(context.outfile),
           },
     })
-    .then(() => console.log(`[${context}]: Built successfully!`))
+    .then(() => console.log(`[${context.outfile}]: Built successfully!`))
     .catch(() => process.exit(1));
 }
